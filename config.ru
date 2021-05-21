@@ -6,3 +6,4 @@ require './config/environment'
 
 run ApplicationController
 use GameBlogsController
+use UsersController
